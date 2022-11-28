@@ -1,17 +1,9 @@
 # PIM-IV
-PIM IV do curso Análise e Desenvolvimento de Sistemas, UNIP 2020
+PIM IV do curso Análise e Desenvolvimento de Sistemas, UNIP 2022
 
 ## Integrantes
 
-2017581 - BRUNO SAPALACIO MINEIRO (líder)
-
-2009202 - ALBERTO SENNA DIAS NETO
-
-2022929 - LEANDRO PEREIRA COSTA
-
-2000290 - PAULO HENRIQUE MENEZES DE SOUZA
-
-2025264 - SOLIMAR MARCONDES DE MELO
+2298141 - Lucas Pereira Cabral
 
 ## Descrição do Problema
 
@@ -56,7 +48,7 @@ sudo apt install codeblocks --install-suggests
 
 2 - Clone este repositório. No Linux, abra o terminal e digite:
 ```
-git clone https://github.com/Solimar13/PIM-IV.git
+git clone https://github.com/Nepturne/PIM-IV.git
 ```
 
 3 - No seu gerenciador de arquivos, navegue até o diretório PIM-IV e abra o arquivo 'pim.cbp' utilizando o CodeBlocks. O projeto será aberto.
